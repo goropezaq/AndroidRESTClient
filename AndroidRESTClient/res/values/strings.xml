@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <!-- Tenga en cuenta que un método onClick se define para cada botón .. -->
+ 	<string name="dniUser">DNI</string>
+    <string name="nomUser">Nombre</string>
+    <string name="apeUser">Apellido</string>
+    <string name="emailUser">Email</string>
+    <string name="regresar">Retornar</string>
+    <string name="getData">Obtener Datos</string>
+    <string name="post">Guardar</string>
+    <string name="clear">Limpiar</string>
+    <string name="app_name">ServiceUser</string>
+    <string name="IP">IP del Host</string>
+    <string name="conectar">Conectar</string>
+    
+    
+ 
+</resources>
